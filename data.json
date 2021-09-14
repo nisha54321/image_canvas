@@ -1,0 +1,29 @@
+{
+    "1":{
+        "icon":"icon_1",
+        "img":"/home/bisag/Documents/svgimg1/svg1.svg",
+        "radius": 100
+        },
+        
+    "2":{
+        "icon":"icon_2",
+        "img":"/home/bisag/Documents/svgimg1/svg2.svg",
+        "radius": 200
+        },
+
+    "3":{
+        "icon":"icon_3",
+        "img":"/home/bisag/Documents/svgimg1/svg3.svg",
+        "radius": 300
+        },
+    "4":{
+        "icon":"icon_4",
+        "img":"/home/bisag/Documents/svgimg1/svg4.svg",
+        "radius": 400
+        },
+    "5":{
+        "icon":"icon_5",
+        "img":"/home/bisag/Documents/svgimg1/svg5.svg",
+        "radius": 500
+        }
+ }
